@@ -19,7 +19,7 @@
 
 ## ⬇️ Atsisiuntimas
 
-```
+```bash
 git clone https://github.com/SteponasK/Skaitykle.git
 ```
 
